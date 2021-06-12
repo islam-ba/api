@@ -7,8 +7,8 @@ Islam.ba is a platform.
 # Maintaners 
 
 ### Project Leads
-Ismir Harambasic
-Damir Miljkovic
+- Ismir Harambasic
+- Damir Miljkovic
 
 ### Platform Development
 Ismir Harambasic
