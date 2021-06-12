@@ -13,7 +13,7 @@ Islam.ba is a platform.
 ### Platform Development
 Ismir Harambasic
 
-### Infrasture
+### Infrastructure
 Denis Besic
 
 ### Mobile Development
