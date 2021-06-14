@@ -1,3 +1,24 @@
-# Strapi application
+# Islam.ba API
 
-A quick description of your strapi application
+Islam.ba is a platform.
+
+# Introduction
+
+# Maintaners 
+
+### Project Leads
+- Ismir Harambasic
+- Damir Miljkovic
+
+### Platform Development
+Ismir Harambasic
+
+### Infrastructure
+Denis Besic
+
+### Mobile Development
+Damir Miljkovic
+
+# Contributions
+
+# Sponsors
