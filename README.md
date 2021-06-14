@@ -4,8 +4,6 @@ Islam.ba is a platform.
 
 # Introduction
 
-
-
 # Maintaners 
 
 ### Project Leads
